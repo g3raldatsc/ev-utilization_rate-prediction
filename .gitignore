@@ -7,8 +7,8 @@
 # Kecuali folder Catatan dan Notebook
 !/Catatan/
 !/Notebook/
-!/README.md/
-!/requirements.txt/
+!/README.md
+!/requirements.txt
 
 # Abaikan folder catboost_info
 Notebook/catboost_info/
