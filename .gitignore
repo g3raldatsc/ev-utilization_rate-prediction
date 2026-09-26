@@ -1,0 +1,12 @@
+# Abaikan semua folder/file di direktori utama
+/*
+
+# Kecuali file .gitignore itu sendiri
+!.gitignore
+
+# Kecuali folder Catatan dan Notebook
+!/Catatan/
+!/Notebook/
+
+# Abaikan folder catboost_info
+Notebook/catboost_info/
